@@ -4,9 +4,8 @@ using System.Linq;
 using System.Runtime.Serialization;
 using System.ServiceModel;
 using System.Text;
-using WCFServicioAlumnos;
 
-namespace WCFServicioAlumnos
+namespace ServicioConvertidor
 {
     public class ServicioClima : IServicioMoneda
     {
